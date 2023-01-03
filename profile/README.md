@@ -1,4 +1,4 @@
-<a href="https://themisfits.ml" target="_blank">
+<a href="https://www.ostroidbot.ml/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/80414685/210431511-320eeb58-45ce-4f0f-9064-cc774daff58a.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/80414685/210431507-9db63f69-df3d-4902-a6fd-dc0a9441ea4b.png">
